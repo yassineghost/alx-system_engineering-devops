@@ -1,3 +1,2 @@
 #!/bin/bash
-mv /alx-system_engineering-devops/0x00-shell_basics[A-Z]* /tmp/u
 cp -um *.html ../
